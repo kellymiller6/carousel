@@ -16,3 +16,11 @@
 		list-style: none;
 		float:	left;
 	}
+
+  #carousel img {
+    transform: rotate(90deg);
+  }
+
+  .arrows img {
+    display: none;
+  }
